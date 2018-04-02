@@ -3,7 +3,7 @@
 ## PPIS grupa ALPHA
 ### Članovi tima:
 ##### *Ajla Alić*
-##### *Dalida Hasic*
+##### *Dalida Hasić*
 ##### *Sajra Muratović*
 ##### *Sunita Imamović*
 ##### *Amar Lubovac*
